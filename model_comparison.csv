@@ -1,0 +1,3 @@
+Model,Accuracy,Accuracy (%)
+Logistic Regression,0.8069552874378992,80.7
+Decision Tree,0.794180269694819,79.42
